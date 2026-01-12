@@ -14,4 +14,5 @@ PRANA is an advanced market analysis core utilizing bio-digital metaphors to pro
 
 *Shadow Core\*\*: Monte Carlo simulation of panic probabilities.
 
+**Shadow Core v2.5 (`evolution_pro.py`):** Powered by **Monte Carlo Behavioral Simulation (MCBS)**. It runs 100 parallel simulations per cycle to detect "Crowd Hysteria" and "Mass Denial" before they manifest in price action.
 
