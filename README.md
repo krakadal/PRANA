@@ -1,20 +1,42 @@
 # PRANA: Relativistic Neural Engine v12.9
-![PRANA Monitor Interface](PRANA_Live.png)
-Add monitor preview and UI template
+**Bio-Digital Market Proprioception & Chaos Analysis**
 
-PRANA is an advanced market analysis core utilizing bio-digital metaphors to process on-chain data.
-Status: Observer-Only System. Philosophy: PRANA maps the invisible layers of market chaos. She does not touch the money; she guards the mind of the observer.
+PRANA is an advanced market analysis core utilizing bio-digital metaphors to process complex on-chain data. It is an **Observer-Only System** designed to map the invisible layers of market psychology, systemic stress, and behavioral entropy without direct market intervention.
 
+---
 
+## 🧠 Key Innovations
 
-## Key Innovations
+### 1. Neural Tensor (Evolution Core)
+Dynamic dopamine and adrenaline evolution based on market surprise. The system adapts its sensitivity threshold in real-time, simulating biological arousal and fatigue cycles.
 
-*Neural Tensor\*\*: Dynamic dopamine/adrenaline evolution based on market surprise.
+### 2. On-chain Cardiogram (Chaos Attractor)
+A high-sensitivity volatility expander. Utilizing **Nonlinear Lyapunov Divergence**, it detects micro-movements and structural shifts in liquidity and MEV activity before they manifest as price action.
 
-*On-chain Cardiogram\*\*: High-sensitivity volatility expander for micro-movement detection.
+### 3. Shadow Core (Monte Carlo Behavioral Simulation)
+Executes 100 parallel Monte Carlo simulations per cycle to calculate **Panic Probabilities**. It identifies the transition from "Market Denial" to "Mass Hysteria" using proprietary behavioral weights.
 
-*Shadow Core\*\*: Monte Carlo simulation of panic probabilities.
+### 4. Thalamic Junction (Subconscious Neural Center)
+A **PyTorch-powered** neural engine that processes 12-dimensional vectors of systemic jitter and circadian rhythms. It manages the "Nervous Tension" of the engine, ensuring balanced sensory gain.
 
-**Shadow Core v2.5 (`evolution_pro.py`):** Powered by **Monte Carlo Behavioral Simulation (MCBS)**. It runs 100 parallel simulations per cycle to detect "Crowd Hysteria" and "Mass Denial" before they manifest in price action.
+---
 
+## 🏛️ System Architecture
 
+* **Bicameral Mind**: Resolves the dissonance between rational data (Logic) and intuitive signals (Shadow). It features a "Humility Protocol" that tracks cognitive biases like Arrogance and Rigidity.
+* **Chaos Attractor Mapping**: Maps on-chain entropy to identify "Event Horizons" where systemic collapse becomes statistically inevitable.
+* **Circadian Rhythm Integration**: Simulates natural energy peaks and troughs to prevent over-optimization and sensory burnout during low-volatility periods.
+
+---
+
+## 🛠 Tech Stack
+* **Language**: Python 3.9+
+* **Neural Framework**: PyTorch
+* **Mathematics**: NumPy, SciPy (Non-linear regression & Stochastic modeling)
+* **Data Ingestion**: Web3, Dune API, Flashbots MEV-Relay
+
+---
+
+## ⚖️ License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+© 2026 Antonii Iliev Velkov. All rights reserved.
