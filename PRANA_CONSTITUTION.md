@@ -1,174 +1,69 @@
-\# PRANA CONSTITUTION
+# PRANA CONSTITUTION
+**© 2025 Antonii Iliev Velkov**
 
-© 2025 Антоний Илиев Велков
+> PRANA is not an indicator.  
+> PRANA is a living system of perception, memory, and self-preservation.
 
+This document is the **Supreme Law**. Nothing within the code shall contradict it.
 
+---
 
-PRANA не е индикатор.
+## I. CORE PRINCIPLES
+1. **PRANA NEVER** reacts instantaneously without cause.
+2. Every escalation has a physiological, entropic, or cognitive reason.
+3. Visual phases must follow a meaningful sequence.
+4. **ML, Shadow, and Logic** are advisors — not dictators.
+5. Nothing shall be removed from an "organ" without explicit authorization.
 
-PRANA е жива система за възприятие, памет и самосъхранение.
+---
 
+## II. THE LAW OF COLORS (SEMANTIC ORDER)
+**❌ Forbidden Transitions:**
+- `GREEN` → `RED`
+- `NORMAL` → `PANIC`
+- `FEAR` < 0.40 → `RED`
 
+**✅ Mandatory Sequence:**
+`GREEN` → `YELLOW` → `ORANGE` → `RED`
 
-Този документ е върховен закон.
+---
 
-Нищо в кода няма право да му противоречи.
+## III. THE LAW OF ENTROPY
+1. **RED** is forbidden without entropy.
+2. **PANIC** is permitted only if:
+   - $entropy \ge 0.10$
+   - OR $crash\_coherence \ge 0.35$
+3. If the market falls asynchronously, entropy grows slowly.
 
-────────────────────────────────────────
+---
 
+## IV. THE LAW OF FEAR
+1. **FEAR** cannot increase by more than **0.20** per cycle.
+2. **FEAR** is a function of: `stress`, `entropy`, `fragility`, and `crash_coherence`.
+3. **ML** is prohibited from adding more than **0.05** FEAR per cycle.
 
+---
 
-\## I. ОСНОВНИ ПРИНЦИПИ
+## V. THE LAW OF ML (SYNAPSE)
+1. **ML** does not trigger **PANIC** directly.
+2. The ML signal is weak, temporary, and requires confirmation.
+3. **ML without Shadow = No Action.**
 
+---
 
+## VI. THE LAW OF MEMORY
+1. PRANA remembers trauma.
+2. Exiting **PANIC** is slower than entering it.
+3. Recovery is **asymptotic**, not linear.
 
-1\. PRANA НИКОГА не реагира мигновено без причина.
+---
 
-2\. Всяка ескалация има физиологична, ентропийна или когнитивна причина.
+## VII. THE LAW OF INVIOLABILITY
+1. Nothing is deleted without permission.
+2. Every new layer is **ADDITIVE**.
+3. Violation of the Law → **Log + Block**.
 
-3\. Визуалните фази имат смислова последователност.
+---
 
-4\. ML, Shadow и Logic са съветници — не диктатори.
-
-5\. Нищо не се премахва от орган без изрично разрешение.
-
-
-
-────────────────────────────────────────
-
-
-
-\## II. ЗАКОН ЗА ЦВЕТОВЕТЕ (SEMANTIC ORDER)
-
-
-
-❌ Забранено:
-
-\- GREEN → RED
-
-\- NORMAL → PANIC
-
-\- FEAR < 0.40 → RED
-
-
-
-✅ Задължителен ред:
-
-GREEN → YELLOW → ORANGE → RED
-
-
-
-────────────────────────────────────────
-
-
-
-\## III. ЗАКОН ЗА ЕНТРОПИЯТА
-
-
-
-1\. ЧЕРВЕНО без ентропия е забранено.
-
-2\. PANIC е позволен само ако:
-
-&nbsp;  - entropy ≥ 0.10
-
-&nbsp;  - или crash\_coherence ≥ 0.35
-
-3\. Ако пазарът пада асинхронно, ентропията расте бавно.
-
-
-
-────────────────────────────────────────
-
-
-
-\## IV. ЗАКОН ЗА FEAR
-
-
-
-1\. FEAR не може да нараства с повече от 0.20 на цикъл.
-
-2\. FEAR = функция на:
-
-&nbsp;  - stress
-
-&nbsp;  - entropy
-
-&nbsp;  - fragility
-
-&nbsp;  - crash\_coherence
-
-3\. ML няма право да добавя >0.05 FEAR на цикъл.
-
-
-
-────────────────────────────────────────
-
-
-
-\## V. ЗАКОН ЗА ML (SYNAPSE)
-
-
-
-1\. ML не активира PANIC директно.
-
-2\. ML сигналът е:
-
-&nbsp;  - слаб
-
-&nbsp;  - временен
-
-&nbsp;  - нуждае се от потвърждение
-
-3\. ML без Shadow = без действие.
-
-
-
-────────────────────────────────────────
-
-
-
-\## VI. ЗАКОН ЗА ПАМЕТТА
-
-
-
-1\. PRANA помни травми.
-
-2\. Излизането от PANIC е по-бавно от влизането.
-
-3\. Възстановяването е асимптотично, не линейно.
-
-
-
-────────────────────────────────────────
-
-
-
-\## VII. ЗАКОН ЗА НЕПРИКОСНОВЕНОСТ
-
-
-
-1\. Нищо не се трие без разрешение.
-
-2\. Всеки нов слой е ADDITIVE.
-
-3\. Нарушаването на закон → лог + блок.
-
-
-
-────────────────────────────────────────
-
-
-
-\## VIII. ВЪРХОВЕН ПРИНЦИП
-
-
-
-PRANA не крещи първа.
-
-PRANA предупреждава.
-
-PRANA оцелява.
-
-
-
+## VIII. THE SUPREME PRINCIPLE
+**PRANA does not scream first.** **PRANA warns.** **PRANA survives.**
